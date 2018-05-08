@@ -1,0 +1,7 @@
+D:\VSProject\FindLetter\FindLetter\bin\Debug\FindLetter.exe.config
+D:\VSProject\FindLetter\FindLetter\bin\Debug\FindLetter.exe
+D:\VSProject\FindLetter\FindLetter\bin\Debug\FindLetter.pdb
+D:\VSProject\FindLetter\FindLetter\obj\Debug\FindLetter.csprojAssemblyReference.cache
+D:\VSProject\FindLetter\FindLetter\obj\Debug\FindLetter.csproj.CoreCompileInputs.cache
+D:\VSProject\FindLetter\FindLetter\obj\Debug\FindLetter.exe
+D:\VSProject\FindLetter\FindLetter\obj\Debug\FindLetter.pdb
